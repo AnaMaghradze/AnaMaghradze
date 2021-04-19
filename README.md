@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m Ana - a Junior Web Developer
 
-  :computer: I'm currently working on my Angular project :blush:
-  
-
 ### Skills and Experience
 
 * Angular
