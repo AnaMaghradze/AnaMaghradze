@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ana - Junior Web Developer
+## 👋 Hi, I’m Ana - Angular Developer
 
 ### Skills and Experience
 
